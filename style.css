@@ -38,6 +38,6 @@ body{
     top: 50%;
     transform-origin: 100%;
     transform: rotate(100deg);
-    transition: all 0.5s;
-    transition-timing-function: cubic-bezier(0.04, 1.74, 0.5, 0.35);
+    /* transition: all 0.5s; */
+    /* transition-timing-function: cubic-bezier(0.04, 1.74, 0.5, 0.35); */
 }
